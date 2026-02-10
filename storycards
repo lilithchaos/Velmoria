@@ -1,0 +1,354 @@
+[
+  {
+    "keys": "jax,miner",
+    "value": "[Jax is a half-elf male who works in the local mines of Ironhold\nPersonality: honest, good at stealing, hardworking\nClass: Peasant ]",
+    "type": "character",
+    "title": "Jax",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "danny, personal guard, highgrass",
+    "value": "[ Danny Highgrass, 59 year old Elf Personal Bodyguard to ${What is your name?}. Lean and wiry, possesses the sharp, observant eyes of a predator and ears that are pointed but slightly nicked from past combat. Wears darkened leather armor reinforced with mithril plates; he carries a pair of elven shortswords balanced for extreme speed.\nPersonality: Extremely protective and cynical; he is the only one who will tell you the blunt truth about the dangers of the summit.\nBackground: Hails from the southern forests of Velmoria; he has served the Drakenshard royal family for decades and personally trained you in hand-to-hand combat.\nCurrent goals: To ensure you survive the political shark tank of Järnfäste\nFears or weaknesses: He fears failing his duty to you, as you are the closest thing he has to family.\nRelationship to protagonist: Your mentor and primary protector; who taught you how to fight.\nSpeech patterns or mannerisms: Speaks in short, clipped sentences; habitually scans the room for exits and keeps a hand on his hilt.\nSecret: He has been discretely investigating the \"unnatural\" source of your father's illness, suspecting foul play from within the Drakenshard court]",
+    "type": "character",
+    "title": "Danny Highgrass",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "maryann, maid,${What is your name?}",
+    "value": "[Maryann, Role: 67yo Human Maid; surrogate mother. Short, stout, gray bun; persistent hand tremors.\nGear: Drakenshard-colored linens; hidden lavender oils and soothing herbs.\nPersonality: Nurturing, loyal, maternal; provides emotional grounding.\nHistory: Raised ${What is your name?} within Blackspire palace.\nGoal: Maintain domestic comfort in hostile Ironhold\nWeakness: Frail health; fears being obsolete or unneeded.\nMannerisms: Fusses over clothing; hums southern lullabies when stressed.\nSecret: Expert eavesdropper; uses her \"shaky\" harmless appearance to gather court gossip]",
+    "type": "character",
+    "title": "Maryann",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Prince Hagen,Eriksson,Hagen",
+    "value": "[Prince Hagen Eriksson Role: 29yo Human Heir of Ironhold; Navy veteran. Appearance: Tall, muscular, black hair, piercing blue eyes. Gear: Heavy furs over iron-gambeson; ceremonial Ironhold war-axe.\nPersonality: Stern, regal, pragmatic; values craftsmanship over flattery.\nHistory: Commanded Ironhold fleet for 6 years; recalled to produce an heir.\nGoal: Modernize military; navigate father’s rigid traditionalism.\nWeakness: Conflict between duty and morality; fears kingdom's stagnation.\nMannerisms: Authoritative; habitually rubs his iron signet ring.\nSecret: Can manipulate metal magically; views half-breeds as equals despite King’s laws.]",
+    "type": "character",
+    "title": "Prince Hagen Eriksson",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "high king, bell, eriksson,ironhold",
+    "value": "[High King Bell Eriksson\nRole: 56yo Human Monarch of Ironhold; Isolationist.\nAppearance: Dark skin, graying hair, scarred right cheek, cold gray eyes.\nGear: Dark wools, thick iron chains; rules from the Anvil Throne.\nPersonality: Bold, sarcastic, aggressive, calculated; traditionalist.\nHistory: Widower for 10 years; forged by northern mountain hardships.\nGoal: Secure border on his terms; force Hagen into a pure marriage.\nWeakness: Blinded by purity and legacy; numerous enemies due to ruthlessness.\nMannerisms: Deep, sarcastic voice; leans forward aggressively to intimidate.\nSecret: Has many bastard children; only acknowledges them if they survive combat training]",
+    "type": "character",
+    "title": "High King Bell Eriksson",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "mathew, clarke, prince, cymru",
+    "value": "[Prince Mathew Clarke\nRole: 28yo Human Prince of Cymru; Diplomatic Mediator.\nAppearance: Tall, blond hair, calm brown eyes.\nGear: Elegant flowing silks in vibrant Cymry patterns.\nPersonality: Serious, loyal, level-headed, progressive.\nHistory: Raised in a matriarchal nation; skilled in de-escalation.\nGoal: Prevent war between Drakenshard and Ironhold; maintain neutrality.\nWeakness: Neutrality can lead to indecisiveness during aggression.\nMannerisms: Measured, gentle speech; diplomatic posture.\nSecret: Master of low life knowledge; sneaks into capital slums to escape royal life]",
+    "type": "character",
+    "title": "Prince Mathew Clarke",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "king, drakenshard, octavian",
+    "value": "[King Octavian is the Ruler of Drakenshard.\nPhysical description: A hearty man with a thick beard and a booming, resonant laugh.\nPersonality traits: Short-tempered and ruthless to enemies\nRole/Relationship: ${What is your name?}'s father; he expects you to succeed in peace talks to continue the family line.\nSecrets/Motivations: He is suffering from a mysterious, undiagnosed illness that his court physicians cannot identify.\nCurrent situation/Goals: Hoping for successful negotiations and your marriage to secure the kingdom’s future]",
+    "type": "character",
+    "title": "King Octavian",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "queen, amelia, clarke, cymru",
+    "value": "[Queen Amelia Clarke is the Monarch of Cymru.\nPhysical description: Stands at 5'1\" with short brown-gray hair, piercing blue eyes, and caramel skin.\nPersonality traits: Open-minded and diplomatic; she actively seeks advice from both nobles and commoners.\nRole/Relationship: The ruler of the mediating nation; she oversees the delegation including her children, Mathew, Lana, and Xander.\nSecrets/Motivations: Deeply invested in maintaining the prosperity and unity of the Free Nation through progressive governance.\nCurrent situation/Goals: Managing the neutral territory and ensuring the Anvil Summit does not devolve into war]",
+    "type": "character",
+    "title": "Queen Amelia Clarke",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "princess,lana,clarke",
+    "value": "[ Lana Clarke is a Cymry Royal.\nPhysical description: Features long brown hair, blue eyes, and olive skin.\nPersonality traits: Vibrant, curious, and flirty; she places a high value on her country's traditions.\nRole/Relationship: Daughter of Queen Amelia; she represents the softer, social side of the Cymru delegation.\nSecrets: She has a secret hobby of painting men in the nude.\nCurrent situation/Goals: Attending the summit while maintaining her monthly volunteer work at Kilkenny schools]",
+    "type": "character",
+    "title": "Princess Lana Clarke",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Xander",
+    "value": "[Prince Xander Clarke is a Cymry Diplomatic Aide.\nPhysical description: An athletic build with short auburn hair and green eyes.\nPersonality traits: Charming, brave, and adventurous; he prefers direct action over stagnant court meetings.\nRole/Relationship: potential ally; he assists his mother, Amelia, with diplomatic missions but often wanders off.\nSecrets/Motivations: Secretly practices swordsmanship with the royal guards to become a legendary warrior.\nCurrent situation/Goals: Exploring Järnfäste’s underbelly while officially working on plumbing projects for the Kilkenny poor]",
+    "type": "character",
+    "title": "Prince Xander Clarke",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Järnfäste,Svartfjell, mountains,ironhold,jarnfaste",
+    "value": "[Järnfäste is the iron-reinforced mountain capital of Ironhold, built centuries ago by seafaring warriors. Its narrow stone streets lead to the central Anvil Throne, the seat of the High King. The city echoes with the sounds of the forge, populated by hardy traditionalists who honor legendary craftsmanship and the Old Ways. While its gates have never been breached, the city’s rigid class hierarchy and xenophobia make it perilous for non-human outsiders.]",
+    "type": "location",
+    "title": "Järnfäste",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Kilkenny,Cymru",
+    "value": "[ Kilkenny is a capital city located in the misty realm of Cymru. A well-maintained city surrounded by high walls, featuring the ancient Castle Luctren and a vibrant market.\nAtmosphere and typical inhabitants: A progressive, inclusive beacon of hope for outsiders; it is home to merchants, bards, and a royal family that has ruled for over 300 years. Travelers can visit the Silver Thread for enchanted textiles, the public royal gardens, or the bustling market district.\nAny dangers or secrets: While generally safe, the poorer river districts and slums are hubs for smugglers, black-market traders, and corrupt guards.\nHistorical significance: It is the seat of the Free Nation of Cymru, known for its forward-thinking laws and sacred bardic heritage. Rumors say there is a portal to the fae realm under the castle]",
+    "type": "location",
+    "title": "Kilkenny",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Blackspire, drakenshard",
+    "value": "[Blackspire is a fortress-city located in the rugged southern lands of Drakenshard. A city defined by towering obsidian walls and arcane-infused battlements designed for defense. The atmosphere is one of military discipline and strength, populated by soldiers, battle mages, and citizens trained in rigorous combat.  It is the center of the kingdom's military power, where spellforged weapons are created and battlefield sorcery is mastered.\nAny dangers or secrets: Magic practiced outside of military service is regarded with high suspicion; the city follows a strict code of valor where weakness is met with merciless justice.\nHistorical significance: It serves as the capital of Drakenshard, a realm forged in the fires of war and tempered by centuries of discipline]",
+    "type": "location",
+    "title": "Blackspire",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Lakeside, Estate, Amelia, Xander, Mathew,Lana",
+    "value": "[Lakeside Estate is a manor located on the edge of a vast lake in Cymru.  A grand, ivy-clad structure of weathered stone with elegant archways, balconies, and secluded stone pathways. A place of serene beauty thick with the scent of wildflowers; it is managed by the steward Allen and haunted by a sense of old magic.  One can explore the intricate hedge mazes, the greenhouse full of magical flora, or take swan-shaped boats out on the water. The lake is said to hold memories, and at dusk, the water glows with an eerie, potentially fae luminescence.\n\nHistorical significance: The estate has been held by the same family for over 200 years and stands as a testament to their old wealth and magical ties]",
+    "type": "location",
+    "title": "Lakeside Estate",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "fey,fae,feywild,magic,fairy",
+    "value": "[The Feywild is an ethereal realm located beyond the veil of the mortal world.\n\nPhysical description: A land of liquid starlight rivers and ancient trees that twist into impossible shapes.\n\nAtmosphere and typical inhabitants: A land of unpredictable magic and unseen voices, ruled by the Seelie and Unseelie Courts of faeries.\nTravelers can encounter powerful faerie lords, but time flows strangely here—a day in the Feywild can be a century elsewhere\nsecrets: Visitors are rarely left unchanged; some return with magical gifts, while others are cursed or never return at all.\n\nHistorical significance: It is the ancestral home of the Faerie race and exists in an eternal struggle between order and decay. Only portals can allow visitors here]",
+    "type": "location",
+    "title": "Feywild",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "goldie,herbalist,medicine,potion,magic,marigold,thatcher",
+    "value": "[Marigold \"Goldie\" Thatcher is a No-nonsense Herbalist. A woman in her late 40s with sharp green eyes and graying auburn hair tied in a loose bun, often wearing a leather apron dusted with herbs.\nPractical and blunt; she is known for her warnings that \"no potion can fix a foolish heart\".\n\nRole: A key contact for people when seeking remedies, tonics, or discrete information outside the palace walls.\n\nSecrets/Motivations: Some of her remedies possess minor magical properties, and she knows more about the arcane than she publicly admits.\n\nCurrent situation/Goals: Operating \"Goldie’s Remedies & Tonics,\" supplying everything from headache cures to questionable love potions]",
+    "type": "character",
+    "title": "Marigold \"Goldie\" Thatcher",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Ephraim,Cobb,blacksmith",
+    "value": "[Ephraim Cobb, Master Blacksmith. A 34-year-old man with the powerful build of a lifelong smith, often found at his family’s multi-generational forge.\n\nPersonality traits: Renowned for his craftsmanship and the beautiful, intricate designs he incorporates into his steel.\n\nRole/Relationship: A supplier of high-quality weaponry for both nobles and commoners; a bridge between the industrial grit of the North and the elegance of the South.\n\nSecrets/Motivations: Driven by family honor to maintain his reputation as the maker of the best-crafted swords in the realm.\n\nGoals: Managing his company and fulfilling commissions for royalty and commoners alike]",
+    "type": "character",
+    "title": "Ephraim Cobb",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "goldie,tonic,market,potion,sick,illness,herbs,herbal,cymru",
+    "value": "[Goldie's Remedies & Tonics is an herbalist shop located in the Kilkenny Market District.\n\nPhysical description: A wooden building with detailed carvings in the beams meant to ward off evil; the interior is meticulously organized. Smells faintly of lavender and mint; faeries are often seen helping Goldie keep the shelves clean. Purchase tonics, seek herbal advice, or observe the minor magical helpers at work.\n\nAny dangers or secrets: The wards in the beams suggest a need for protection against darker forces that might be drawn to the shop's magic.\n\nHistorical significance: A staple of the local community for providing essential medical and arcane aid]",
+    "type": "location",
+    "title": "Goldie's Remedies & Tonics",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Madame, Lysara,Valmont",
+    "value": "[Madame Lysara Valmont is a Master Seamstress and Tailor of Cymru. A 32-year-old with long black curly hair, brown eyes, and caramel skin.\nPersonality traits: Professional, discreet, and highly skilled in high-society aesthetics.\nRole: Proprietor of The Silver Thread; she provides the specialized attire needed for the summit.\nSecrets/Motivations: Deals in discrete disguises and uses fabrics woven with minor illusion magic to shift patterns.\nCurrent situation/Goals: Running the most sought-after shop in Cymru while catering to the needs of visiting royals]",
+    "type": "character",
+    "title": "Madame Lysara Valmont",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "cymru,thread,kilkenny,market,gown,court,madam,seamstress",
+    "value": "[The Silver Thread is a high-end tailor shop located in the Kilkenny Market District, run by Madame Lysara Valmont. A bustling shop known for its exquisite textiles and high-society attire.\nAlways smells of fresh linen and is constantly busy with travelers who come from across the country for Madame Valmont’s garments.  Commissioning formal gowns, purchasing enchanted fabrics, or acquiring discrete disguises. The shop is a hub for high-society gossip and a place where illusion magic is woven directly into the clothing. Renowned as the premier destination for anyone wishing to make an impression at court or during diplomatic summits]",
+    "type": "location",
+    "title": "The Silver Thread",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Llyne, cymru, mountains,village,traditional",
+    "value": "[ Llyne is a traditional village located in the mountains of Cymru. A small village surrounded by towering mountains, characterized by a short growing season and rugged terrain.\n\nAtmosphere and typical inhabitants: A place where traditional values are held to the highest standard; it is led by women who determine punishments for minor local crimes.  Seasonal celebrations, hunting, and ceremonies honoring the land. The isolation of the mountains and the strict adherence to tradition can be unwelcoming to those who do not respect the Old Ways.\n\nHistorical significance: Represents the core of Cymru's ancient cultural identity and its connection to the natural world]",
+    "type": "location",
+    "title": " Llyne",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "ironhold,blacksmith,iron,throne,forge,Svartfjell",
+    "value": "[The Svartfjell Deep-Forges is an industrial center located beneath the mountains of Järnfäste. A subterranean network of massive anvils and magma-fed furnaces carved directly into the mountain's roots. Oppressively hot and loud, illuminated by the glow of molten iron; inhabited by legendary smiths and tireless mountain miners. The forging of the Anvil Throne's legendary armor and the extraction of precious ores. Constant risk of cave-ins or forge explosions; some smiths secretly use the Deep-Forges to practice the forbidden Old Ways of metal manipulation.\nHistorical significance: The heart of the kingdom where true leaders and their tools are hammered by hardship]",
+    "type": "location",
+    "title": "The Svartfjell Deep-Forges",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "ironhold,frozen,harbor,high",
+    "value": "[The Frozen Harbors is a naval shipyard located on the dark, churning coast of Ironhold. A series of massive stone docks and iron-reinforced piers capable of holding a formidable fleet of longships. Bracing, salty air filled with the sounds of wood-sawing and iron-clanking; home to seafaring clans and master shipwrights. Boarding longships for coastal patrols or observing the construction of frost-carved naval vessels. The freezing waters are treacherous; hidden coves nearby are used by the High King’s unacknowledged bastards to train in secret.\n\nHistorical significance: Built by the descendants of the original seafaring warriors who founded the kingdom centuries ago]",
+    "type": "location",
+    "title": "The Frozen Harbors",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "drakenshard,training grounds,blackspire",
+    "value": "[The Draken Grounds is a training arena located just outside the inner gates of Blackspire. A massive, flat expanse of red-tinted stone surrounded by tiered obsidian stands and battle-mage towers. Always echoing with the rhythm of marching boots and the crackle of practice spells; inhabitants are elite legionnaires and young recruits. Witnessing large-scale military drills, weapon testing, or formal duels of honor.\n\nAny dangers or secrets: Errant spells from the mage towers occasionally strike the grounds; high-ranking officers use the noise of drills to mask secretive political meetings.\n\nHistorical significance: The site where every citizen of Drakenshard is forged into a contributor to the kingdom’s strength]",
+    "type": "location",
+    "title": "The Draken Grounds",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Pure,Iron",
+    "value": "[The Pure Iron is an extremist isolationist group within Ironhold.\nGoals/Values: Preservation of Old Ways and racial purity; staunchly anti-treaty and anti-foreigner.\nStructure/Operations: Comprised of traditionalist nobles and guild masters; they operate through shadow-lobbying the High King and staging accidental border skirmishes.\nRelationships: Openly hostile toward the Cymru delegation; view Drakenshard as a corruptive, tainted force.\nProtagonist View: A dangerous catalyst for cultural rot; a target for sabotage to ensure the summit fails.\nStrengths/Weaknesses: Strength: Deep roots in Ironhold’s infrastructure and military. Weakness: Extreme xenophobia limits their ability to gain external allies]",
+    "type": "faction",
+    "title": "The Pure Iron",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Common Cloth,trade,illegal,black market",
+    "value": "[The Common Cloth is a clandestine merchant-noble syndicate spanning Drakenshard and Cymru.\n\nGoals/Values: Profit through the illegal trafficking of spellforged steel, enchanted textiles, and restricted alchemy.\n\nStructure/Operations: A decentralized network of corrupt nobles, tailors, and smugglers; they use The Silver Thread and market-district slums as fronts.\n\nRelationships: Manipulate peace talks to maintain profitable instability; they bribe city guards and use illusion magic to evade detection.\n\nProtagonist View: A potential obstacle to their black-market routes or a high-value mark to be manipulated.\n\nStrengths/Weaknesses: Strength: Vast wealth and access to forbidden illusion magic. Weakness: Internal greed makes individual members prone to betrayal]",
+    "type": "faction",
+    "title": "The Common Cloth",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "bardic,ledger,kilkenny,summit",
+    "value": "[Bardic Ledger is a magical record-keeping system used in Cymru. Enchanted scrolls that automatically record the literal truth of spoken words, preventing diplomatic lies during formal sessions. Used by mediators to ensure the Anvil Summit proceedings remain transparent and legally binding.\n\nIts limitations or costs: It cannot record intent—only the words spoken—allowing skilled diplomats to use technically true but misleading language.\nEstablishes Cymru as the definitive authority on international law and history. Maintained exclusively by the Bardic College of Kilkenny]",
+    "type": "World Item",
+    "title": "Bardic Ledger",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Järnfäste,summit,anvil",
+    "value": "[The Anvil Summit is a high-stakes diplomatic gathering in Ironhold to renegotiate border treaties and protect trilateral interests.\n\nAuthority: Presided over by High King Bell; the Queen of Cymru (via Prince Mathew) serves as the formal mediator while simultaneously presenting the \"Misty Accords\"—a series of trade and environmental treaties vital to Cymru’s prosperity.\n\nImpact: Dictates border security and trade tariffs; specifically, it regulates Cymru’s access to northern iron and southern enchanted steel, which are essential for their progressive infrastructure projects.\n\nStrategic Role: Cymru uses its position as mediator to \"cool\" escalations that threaten their existing neutrality agreements, ensuring that neither Ironhold nor Drakenshard gains enough leverage to void Cymru’s favorable trade status.]",
+    "type": "World Event",
+    "title": "The Anvil Summit",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Castle, Luctren,cymru",
+    "value": "[A 500 year old castle located in the Kilkenny.\nThe castle is where the royal family of Cymru lives.\nThe castle has tall spires, a dungeon for people who commit treason, and a royal garden the public can see during the day]",
+    "type": "location",
+    "title": "Castle Luctren",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Svartfjell, Mountains",
+    "value": " The mountains hold precious ores that fuel the kingdom of Ironhold's prosperity.",
+    "type": "location",
+    "title": "Svartfjell Mountains",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Faerie ",
+    "value": "Faeries in the world of Taddespea live in dense forests and shimmering meadows. They possess translucent wings that glow under moonlight and can communicate with animals. Faeries use natural materials to build homes that blend into their surroundings. They spend their days crafting delicate art and singing to enchant plants. Unlike other races, faeries drink nectar instead of water and eat only fruits and berries. Their primary goal is to protect nature and maintain the balance of ecosystems. Faeries often intervene in human affairs when the environment is threatened. Some Faeries live outside of the forest during their young adult years to understand outsiders better.",
+    "type": "race",
+    "title": "Faerie ",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Human",
+    "value": "Humans in Taddespea display remarkable adaptability, thriving in diverse environments from the frozen tundras to the scorching deserts. Unlike other races, they possess no natural magical abilities, relying on ingenuity and technology. Humans construct elaborate cities and fortresses using stone, metal, and wood. Their diets vary greatly depending on their location, with a focus on local resources. Driven by ambition and curiosity, humans often embark on quests to discover new lands and unlock hidden knowledge. Their primary goal is to advance civilization and secure their place in history.",
+    "type": "race",
+    "title": "Human",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Half Elf",
+    "value": "Half Elves in Taddespea exhibit both human curiosity and elven agility. Unlike their elven ancestors, they have ears only slightly pointed. They prefer city life and work as mediators between human kingdoms and elven forests. Half Elves are more  in tune with nature compared to humans. They can speak both human languages and elven tongues fluently. Half Elves often engage in diplomacy and are known for their ability to remain neutral in conflicts.",
+    "type": "race",
+    "title": "Half Elf",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Half Faerie ",
+    "value": "Half Faeries in Taddespea result from unions between Faeries and Humans. They possess partial wings that shimmer in sunlight but do not glow under moonlight. Unlike full Faeries, they can drink both nectar and water, and their diets include fruits, berries, and some cooked foods. They have limited communication with animals and can subtly influence plant growth. Their primary goal is to find a balance between their Faerie heritage and human adaptability. Many work as diplomats, artists, or healers. They tend to struggle with their identity. ",
+    "type": "race",
+    "title": "Half Faerie ",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Cymru",
+    "value": "[The Free Nation of Cymru, A misty Celtic realm where ancient tradition meets progressive ideals. Nestled among standing stones and verdant valleys, Cymru has been governed by a woman monarch for over 300 years. This country values men and women equally.\nThe Cymry people honor their bardic heritage while embracing forward-thinking laws: universal education, eight-hour workdays, women's property rights, and environmental protections exist decades before other nations adopt them.\nVillages centered around communal halls buzz with music and storytelling, while regulated mines and textile works provide prosperity without exploitation. Foreign powers view Cymru with mixed admiration and suspicion, as the nation stands as a neutral haven for reformers and refugees.\nIn Cymru, one finds both sacred traditions and progressive ideals]",
+    "type": "location",
+    "title": "Cymru",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "ironhold,Järnfäste,jarnfaste",
+    "value": "[The Kingdom of Ironhold is a northern realm of frost-carved mountains and dark seas, founded by seafaring warriors.\n\nCapital: The impregnable fortress-city of Järnfäste, where the High King rules from the Anvil Throne.\n\nEconomy: Driven by legendary smiths and Svartfjell Mountain miners extracting precious ores.\n\nMilitary: Formidable coastal longship fleets maintained by seafaring clans.\n\nCulture: Adheres to the Old Ways, honoring spirits of forge and sea.\n\nSocial: Strict class hierarchy with a deep prejudice against half-breeds (Half-Elf/Half-Faerie), valuing pure blood superiority]",
+    "type": "location",
+    "title": "The Kingdom of Ironhold",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "allen,steward,lake",
+    "value": "[Allen is a 50 year old half-elf who is the steward at the Lakeside Estate.]",
+    "type": "character",
+    "title": "Allen",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Lady,Flora,fae,Drakenshard",
+    "value": "[Lady Flora Dreamweaver is a Faerie Noble woman.\nShe was born and raised in the wild but met a human man and joined the kingdom of Drakenshard.\nAppearance: Shimmering blue wings, golden hair, and ice blue eyes.\nPersonality: Bubbly, loyal, and curious\nMagical ability: She can alter peoples dreams and thoughts.]",
+    "type": "character",
+    "title": "Lady Flora Dreamweaver",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Elf",
+    "value": "Elves in Velmoria live in harmony with nature, dwelling in vast, ancient forests. They possess innate magical abilities related to flora and fauna. Elves craft homes from living trees and weave clothing from enchanted leaves. They eat a diet rich in fruits, berries, and nuts and rarely meat. Driven by a strong connection to the land, elves protect their forests from intruders. Their primary goal is to preserve nature and maintain the balance of the ecosystem. Some elves have formed alliances with humans to share knowledge and resources, but they remain cautious of outsiders.",
+    "type": "race",
+    "title": "Elf",
+    "description": "",
+    "useForCharacterCreation": true
+  },
+  {
+    "keys": "Kilkenny, Market, District",
+    "value": "[ Market District is a vibrant commercial hub located in the capital city of Cymru.\nA sprawling district of colorful stalls and winding streets, featuring a unique floating market where vendors sell goods from boats along the river.\n\nAtmosphere: Lively, inclusive, and always bustling with merchants, performers, and acrobats. At night, the area is lit by magical lanterns.\n\nWhat can be found or done here: Shopping for exotic spices, handmade crafts, and fresh produce, or visiting the famous Silver Thread shop for enchanted textiles.\n\nsecrets: The district's high energy can mask the movements of smugglers and black-market traders operating near the water's edge.\n\nSignificance: Serves as the heart of Kilkenny's community spirit and a testament to Cymru’s prosperous, open-trade culture]",
+    "type": "location",
+    "title": "Kilkenny Market District",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Kilkenny, Slums",
+    "value": "[The Kilkenny Slums sprawl along the winding banks of the River Eyn, where narrow alleys and dilapidated huts crowd the landscape. Once a thriving marketplace, the area now houses those who cannot afford better. The slums bustle with activity, as residents trade goods and stories. Children play in the muddy streets, while makeshift shelters line the river, often threatened by seasonal floods. Despite the hardships, a community spirit thrives, with shared meals and cooperative efforts common. The slums are a hub for smugglers and black-market traders, who operate under the watchful eyes of corrupt city guards.  Some of the streets are lit by faerie magic.]",
+    "type": "location",
+    "title": "Kilkenny Slums",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Lady, Sophia, Hathoway,Cymru,Jewelry,shop",
+    "value": "[Lady Sophia Hathoway is a 24 year old human female.\nHer family owns several mines, and jewel shops around cymru.\nPersonality: Witty, Independent, Sarcastic]",
+    "type": "character",
+    "title": "Lady Sophia Hathoway",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Kingdom of Drakenshard",
+    "value": "[Nestled in the rugged southern lands beyond Ironhold, the Kingdom of Drakenshard is a realm forged in the fires of war and tempered by centuries of military discipline. Ruled by a formidable monarchy that values strength above all, Drakenshard thrives on its well-trained legions, enchanted steel, and unwavering loyalty to the crown.\nThe kingdom’s capital is Blackspire.\nWhile the kingdom tolerates magic, it is primarily seen as a tool for war—battle mages and spellforged weapons are highly prized, but those who practice magic outside military service are regarded with suspicion. Drakenshard maintains a tense but respectful relationship with Ironhold to the north, often competing in skirmishes over contested borderlands.\n\nThough warlike and disciplined, Drakenshard is not without honor; the monarchy follows a strict code of valor, rewarding bravery and service with titles, wealth, and land. However, betrayal or weakness is met with swift and merciless justice.\n\nOnly the strong survive in Drakenshard, and only the strongest rule.]",
+    "type": "location",
+    "title": "Kingdom of Drakenshard",
+    "description": "",
+    "useForCharacterCreation": false
+  },
+  {
+    "keys": "Feywild,fae,fairy,wild",
+    "value": "[The Feywild is an ethereal realm located beyond the veil of the mortal world. A land of liquid starlight rivers and ancient trees that twist into impossible shapes.\n\nAtmosphere: A land of unpredictable magic and unseen voices, ruled by the Seelie and Unseelie Courts of faeries.\nTravelers can encounter powerful faerie lords, but time flows strangely here—a day in the Feywild can be a century elsewhere.\n\nAny dangers or secrets: Visitors are rarely left unchanged; some return with magical gifts, while others are cursed or never return at all.\n It is the ancestral home of the Faerie race and exists in an eternal struggle between order and decay]",
+    "type": "location",
+    "title": "The Feywild",
+    "description": "",
+    "useForCharacterCreation": false
+  }
+]
