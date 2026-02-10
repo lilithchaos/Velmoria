@@ -8,22 +8,6 @@
     "useForCharacterCreation": false
   },
   {
-    "keys": "danny, personal guard, highgrass",
-    "value": "[ Danny Highgrass, 59 year old Elf Personal Bodyguard to ${What is your name?}. Lean and wiry, possesses the sharp, observant eyes of a predator and ears that are pointed but slightly nicked from past combat. Wears darkened leather armor reinforced with mithril plates; he carries a pair of elven shortswords balanced for extreme speed.\nPersonality: Extremely protective and cynical; he is the only one who will tell you the blunt truth about the dangers of the summit.\nBackground: Hails from the southern forests of Velmoria; he has served the Drakenshard royal family for decades and personally trained you in hand-to-hand combat.\nCurrent goals: To ensure you survive the political shark tank of Järnfäste\nFears or weaknesses: He fears failing his duty to you, as you are the closest thing he has to family.\nRelationship to protagonist: Your mentor and primary protector; who taught you how to fight.\nSpeech patterns or mannerisms: Speaks in short, clipped sentences; habitually scans the room for exits and keeps a hand on his hilt.\nSecret: He has been discretely investigating the \"unnatural\" source of your father's illness, suspecting foul play from within the Drakenshard court]",
-    "type": "character",
-    "title": "Danny Highgrass",
-    "description": "",
-    "useForCharacterCreation": false
-  },
-  {
-    "keys": "maryann, maid,${What is your name?}",
-    "value": "[Maryann, Role: 67yo Human Maid; surrogate mother. Short, stout, gray bun; persistent hand tremors.\nGear: Drakenshard-colored linens; hidden lavender oils and soothing herbs.\nPersonality: Nurturing, loyal, maternal; provides emotional grounding.\nHistory: Raised ${What is your name?} within Blackspire palace.\nGoal: Maintain domestic comfort in hostile Ironhold\nWeakness: Frail health; fears being obsolete or unneeded.\nMannerisms: Fusses over clothing; hums southern lullabies when stressed.\nSecret: Expert eavesdropper; uses her \"shaky\" harmless appearance to gather court gossip]",
-    "type": "character",
-    "title": "Maryann",
-    "description": "",
-    "useForCharacterCreation": false
-  },
-  {
     "keys": "Prince Hagen,Eriksson,Hagen",
     "value": "[Prince Hagen Eriksson Role: 29yo Human Heir of Ironhold; Navy veteran. Appearance: Tall, muscular, black hair, piercing blue eyes. Gear: Heavy furs over iron-gambeson; ceremonial Ironhold war-axe.\nPersonality: Stern, regal, pragmatic; values craftsmanship over flattery.\nHistory: Commanded Ironhold fleet for 6 years; recalled to produce an heir.\nGoal: Modernize military; navigate father’s rigid traditionalism.\nWeakness: Conflict between duty and morality; fears kingdom's stagnation.\nMannerisms: Authoritative; habitually rubs his iron signet ring.\nSecret: Can manipulate metal magically; views half-breeds as equals despite King’s laws.]",
     "type": "character",
@@ -65,7 +49,7 @@
   },
   {
     "keys": "princess,lana,clarke",
-    "value": "[ Lana Clarke is a Cymry Royal.\nPhysical description: Features long brown hair, blue eyes, and olive skin.\nPersonality traits: Vibrant, curious, and flirty; she places a high value on her country's traditions.\nRole/Relationship: Daughter of Queen Amelia; she represents the softer, social side of the Cymru delegation.\nSecrets: She has a secret hobby of painting men in the nude.\nCurrent situation/Goals: Attending the summit while maintaining her monthly volunteer work at Kilkenny schools]",
+    "value": "[ Lana Clarke is a Cymry Royal.\nPhysical description: Features long brown hair, blue eyes, and olive skin.\nPersonality traits: Vibrant, curious, and flirty; she places a high value on her country's traditions.\nRole/Relationship: Daughter of Queen Amelia; she represents the softer, social side of the Cymru royal family.\nSecrets: She has a secret hobby of painting men in the nude.\nCurrent situation/Goals: Volunteers at Kilkenny schools]",
     "type": "character",
     "title": "Princess Lana Clarke",
     "description": "",
@@ -73,7 +57,7 @@
   },
   {
     "keys": "Xander",
-    "value": "[Prince Xander Clarke is a Cymry Diplomatic Aide.\nPhysical description: An athletic build with short auburn hair and green eyes.\nPersonality traits: Charming, brave, and adventurous; he prefers direct action over stagnant court meetings.\nRole/Relationship: potential ally; he assists his mother, Amelia, with diplomatic missions but often wanders off.\nSecrets/Motivations: Secretly practices swordsmanship with the royal guards to become a legendary warrior.\nCurrent situation/Goals: Exploring Järnfäste’s underbelly while officially working on plumbing projects for the Kilkenny poor]",
+    "value": "[Prince Xander Clarke is a Cymry Diplomatic Aide.\nPhysical description: An athletic build with short auburn hair and green eyes.\nPersonality traits: Charming, brave, and adventurous; he prefers direct action over stagnant court meetings.\nRole/Relationship: potential ally; he assists his mother, Amelia, with diplomatic missions but often wanders off.\nSecrets/Motivations: Secretly practices swordsmanship with the royal guards to become a legendary warrior.\nCurrent situation/Goals: working on plumbing projects for the Kilkenny poor]",
     "type": "character",
     "title": "Prince Xander Clarke",
     "description": "",
@@ -212,14 +196,6 @@
     "value": "[Bardic Ledger is a magical record-keeping system used in Cymru. Enchanted scrolls that automatically record the literal truth of spoken words, preventing diplomatic lies during formal sessions. Used by mediators to ensure the Anvil Summit proceedings remain transparent and legally binding.\n\nIts limitations or costs: It cannot record intent—only the words spoken—allowing skilled diplomats to use technically true but misleading language.\nEstablishes Cymru as the definitive authority on international law and history. Maintained exclusively by the Bardic College of Kilkenny]",
     "type": "World Item",
     "title": "Bardic Ledger",
-    "description": "",
-    "useForCharacterCreation": false
-  },
-  {
-    "keys": "Järnfäste,summit,anvil",
-    "value": "[The Anvil Summit is a high-stakes diplomatic gathering in Ironhold to renegotiate border treaties and protect trilateral interests.\n\nAuthority: Presided over by High King Bell; the Queen of Cymru (via Prince Mathew) serves as the formal mediator while simultaneously presenting the \"Misty Accords\"—a series of trade and environmental treaties vital to Cymru’s prosperity.\n\nImpact: Dictates border security and trade tariffs; specifically, it regulates Cymru’s access to northern iron and southern enchanted steel, which are essential for their progressive infrastructure projects.\n\nStrategic Role: Cymru uses its position as mediator to \"cool\" escalations that threaten their existing neutrality agreements, ensuring that neither Ironhold nor Drakenshard gains enough leverage to void Cymru’s favorable trade status.]",
-    "type": "World Event",
-    "title": "The Anvil Summit",
     "description": "",
     "useForCharacterCreation": false
   },
